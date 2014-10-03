@@ -1,4 +1,5 @@
 # NHS Validation
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/veraz-ltd/nhs-number?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Everyone registered with the NHS in England and Wales has their own unique number. This is a simple class that validates those numbers so you can determine if they are valid or not.
 
